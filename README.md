@@ -21,5 +21,5 @@ Through this combination of descriptive statistics, clustering, and predictive m
 
 ## Files
 `data` contains the two data sources \
-`Regional Inequalities in Europe.zip` contains the Jupyter Notebook used to develop the code
+`Regional Inequalities in Europe.zip` contains the Jupyter Notebook used to develop the code \
 `Report: Regional Inequalities in Europe.zip`
