@@ -8,7 +8,6 @@ dimensional clustering approach, combining socio-economic indicators with measur
 Our analysis followed a multi-step approach designed to uncover patterns at both the regional and country level.  
 
 First, we harmonized and preprocessed the data to ensure consistency across countries and regions, addressing missing values and standardizing measures. We then reduced the complexity of the dataset using Principal Component Analysis (PCA), thus capturing the main dimensions of variation in socio-economic characteristics.  
-
 This facilitated clustering, allowing us to group regions with similar profiles and to examine how Eastern and Western regions distribute across these clusters.  
 
 Beyond clustering, we assessed internal cohesion within countries, measuring the degree of variation among regions and testing whether patterns differ according to historical EU membership or political freedom.  
